@@ -24,9 +24,9 @@ tooling that helps to check your programs are correct.
 
 ## Classes and Labs
 
-This being a [NUflex](https://nuflex.northeastern.edu/) class,
+This being a [NUflex](https://web.archive.org/web/20240808154712/https://nuflex.northeastern.edu/) class,
 students may attend in different ways. Please defer to the [dynamic
-scheduler](https://nuflex.northeastern.edu/dynamic-scheduling/) on how to attend on any given day.
+scheduler](http://web.archive.org/web/20210726060550/https://nuflex.northeastern.edu/dynamic-scheduling/) on how to attend on any given day.
 
  |         |       |       |         |             |                                                                                                                       |
  | Lecture | 18279 | Jason | M, W, R | 13:15-14:40 | East Village 002 or [Zoom](https://northeastern.instructure.com/courses/18639/external_tools/5661?display=borderless) |

@@ -49,7 +49,7 @@ ensuring software correctness. You will also familiarize yourself with
 
 as well as the common notations for the preceding. We will study logic
 from a computational perspective using the [ACL2 Sedan theorem proving
-system](http://acl2s.ccs.neu.edu/acl2s/doc). **Please do not use the
+system](https://web.archive.org/web/20240222074354/http://acl2s.ccs.neu.edu/acl2s/doc). **Please do not use the
 installation instructions on the this website. Instead follow the
 first lab assignment.**
 
@@ -244,7 +244,7 @@ should expect the following stages:
 	
   - Roughly two to four days before the due date, you will have
     submitted to me a "receipt" for an
-    [appointment](https://cssh.northeastern.edu/writingcenter/tutoring/online-appointments/)
+    [appointment](https://web.archive.org/web/20241202233649/https://cssh.northeastern.edu/writingcenter/tutoring/online-appointments/)
     at the writing center where you have copy-edited your draft. They
     have a [whole bevy of resources for you]({{ site.baseurl
     }}/faq/improve-writing/).
@@ -266,9 +266,9 @@ should expect the following stages:
 Students of course play an integral part in ensuring they receive the
 full benefit of their coursework. The students of 2800 are certainly
 beholden to the academic integrity policies of [Northeastern
-University](http://www.northeastern.edu/osccr/academic-integrity-policy/),
+University](http://web.archive.org/web/20210518231334/http://www.northeastern.edu/osccr/academic-integrity-policy),
 the [Khoury
-College](https://www.khoury.northeastern.edu/information-for-overview/current-undergrad/undergraduate-advising-academic-support/academic-policies/).
+College](https://web.archive.org/web/20240920031252/https://www.khoury.northeastern.edu/information-for-overview/current-undergrad/undergraduate-advising-academic-support/academic-policies/).
 
 ## Teamwork and Collaboration
 
@@ -285,7 +285,7 @@ able to demonstrate this mastery when requested.
 # Required Texts 
 
 There are no required texts for this course. Our course will follow a
-draft of [Pete Manolios's](https://www.ccs.neu.edu/~pete/) [/Reasoning
+draft of [Pete Manolios's](https://web.archive.org/web/20230226074304/https://www.ccs.neu.edu/~pete/) [/Reasoning
 About Programs/ (2020)]({{ site.baseurl }}/readings/). You will find these
 notes linked from this website. I invite you to collaboratively
 annotate these notes with me, and with each other.
@@ -293,7 +293,7 @@ annotate these notes with me, and with each other.
 # Academic Accommodations 
 
 If you have accommodations from the [Disability Resource Center
-(DRC)](http://www.northeastern.edu/drc/) please submit your Professor
+(DRC)](https://web.archive.org/web/20210327072511/http://www.northeastern.edu/drc/) please submit your Professor
 Notification Letter to me by email, preferably within the first two
 weeks of the quarter, so I can do my part to help you achieve equal
 access in this course. I am eager to discuss ways we can ensure your
@@ -301,7 +301,7 @@ full participation.
 
 I encourage all students who may benefit from learning more about DRC
 services to [contact the
-DRC](http://www.northeastern.edu/drc/#fp-blog-entry:~:text=Contact%20Information).
+DRC](https://web.archive.org/web/20210327072511/http://www.northeastern.edu/drc/#fp-blog-entry:~:text=Contact%20Information).
 
 # Technology and Platforms
 
@@ -321,7 +321,7 @@ the [technology page]({{ site.baseurl }}/tech/) for more details.
 The university has put into place a robust plan to make the campus
 healthy and safe for all — but you must do your part. On August 22, all
 students received an
-[email](https://news.northeastern.edu/coronavirus/university-messages/university-response-to-unsafe-behavior/)
+[email](https://web.archive.org/web/20241110214801/https://news.northeastern.edu/coronavirus/university-messages/university-response-to-unsafe-behavior/)
 from Senior Vice Chancellor for Student Affairs Madeleine Estabrook on
 the expectations for behavior both on campus and off campus. **Please
 read it carefully today.**
@@ -348,15 +348,15 @@ To summarize:
   telehealth team who will provide you with next steps.
 
 * Do a Daily Wellness Check
-  ([wellness-check.northeastern.edu](https://wellness-check.northeastern.edu)),
+  ([wellness-check.northeastern.edu](https://web.archive.org/web/20210927132732/http://www.wellness-check.northeastern.edu/)),
   wash your hands well and regularly, and disinfect high-touch surfaces
   and spaces.
 
 * I will be wearing a [face
-  covering](https://news.northeastern.edu/coronavirus/reopening/frequently-asked-questions/#reopening)
+  covering](http://web.archive.org/web/20210815142735/https://news.northeastern.edu/coronavirus/reopening/frequently-asked-questions/)
   or mask as I teach and expect that you will do the same in class. If
   you come to class without a mask, I’ll ask you to go and [get one on
-  campus](https://news.northeastern.edu/coronavirus/reopening/policies-and-protocols/#face-covering-protocol).
+  campus](https://web.archive.org/web/20241103200633/https://news.northeastern.edu/coronavirus/reopening/policies-and-protocols/#face-covering-protocol).
   You can get a mask at the Visitor Center or at the Curry Student
   Center Help Desk. If you refuse to wear a mask in class, I won’t be
   able to continue the class. If you are not sitting six feet apart from
@@ -375,7 +375,7 @@ To summarize:
 
 Pete Manolios is responsible for much of our course infrastructure and
 assignments. Pete Manolios and [Stavros
-Tripakis](https://www.ccs.neu.edu/~stavros/) inspired some the lecture
+Tripakis](http://web.archive.org/web/20250126152956/http://www.ccs.neu.edu/~stavros/) inspired some the lecture
 contents and topics, and in some cases designed the slides. [Lindsey
 Kuper](https://users.soe.ucsc.edu/~lkuper/) inspires some of this site
 as well as being all-around inspirational.
