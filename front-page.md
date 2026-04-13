@@ -1,5 +1,5 @@
 ---
-title: 20FA 2800
+title: 20FA-CS2800
 author: Jason Hemann
 email: jhemann@northeastern.edu
 startup: showall
@@ -15,4 +15,3 @@ write, even more when you can teach, but certain when you can
 program. -- Alan Perlis, Epigram 16 "Epigrams in Programming" SIGPLAN
 Notices (Sept 1982)
 #+END_QUOTE
-

@@ -66,7 +66,7 @@ device, you can send any page to hypothesis via the [following app](https://play
 I constructed our course homepage as a Jekyll site built with Github
 Pages. Student corrections and improvements are *incredibly* welcome!
 You can submit a [pull request
-(PR)](https://github.com/jasonhemann/20FA-2800) for a quick
+(PR)](https://github.com/jasonhemann/20FA-CS2800) for a quick
 correction and improvement. Every page on this website has a direct
 links to its ~.md~ file in this repository.
 
